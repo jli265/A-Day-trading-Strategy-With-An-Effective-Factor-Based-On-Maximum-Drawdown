@@ -1,0 +1,1 @@
+# A-Day-trading-Strategy-With-An-Effective-Factor-Based-On-Maximum-Drawdown
